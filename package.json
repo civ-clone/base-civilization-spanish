@@ -1,6 +1,6 @@
 {
   "name": "@civ-clone/base-civilization-spanish",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "The Spanish civilization class, its leaders, attributes and city names.",
   "repository": "git@github.com:civ-clone/base-civilization-spanish.git",
   "keywords": [
